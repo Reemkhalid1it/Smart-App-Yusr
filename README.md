@@ -10,9 +10,9 @@ A bilingual (Arabic-first, English) Flutter mobile app that brings ritual guidan
 ![Gemini](https://img.shields.io/badge/Google_Gemini-AI_chat-4285F4?logo=googlegemini&logoColor=white)
 ![Status](https://img.shields.io/badge/status-academic_prototype-lightgrey)
 
-<img src="screenshots/home-screen.png" alt="Yusr home screen" width="230"> &nbsp;
-<img src="screenshots/haram-map.png" alt="Yusr interactive Haram map" width="230"> &nbsp;
-<img src="screenshots/tawaf-counter.png" alt="Yusr Tawaf counter" width="230">
+<img src="screenshots/home-screen.jpeg" alt="Yusr home screen" width="230"> &nbsp;
+<img src="screenshots/haram-map.jpeg" alt="Yusr interactive Haram map" width="230"> &nbsp;
+<img src="screenshots/tawaf-counter.jpeg" alt="Yusr Tawaf counter" width="230">
 
 </div>
 
@@ -66,17 +66,17 @@ Yusr tries to address this by combining, in one mobile app:
 
 | Home | AI chatbot | Interactive map | Safety alerts |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/home-screen.png" alt="Home screen" width="200"> | <img src="screenshots/ai-chatbot.png" alt="AI chatbot" width="200"> | <img src="screenshots/haram-map.png" alt="Interactive Haram map" width="200"> | <img src="screenshots/safety-alerts.png" alt="Safety alerts" width="200"> |
+| <img src="screenshots/home-screen.jpeg" alt="Home screen" width="200"> | <img src="screenshots/ai-chatbot.jpeg" alt="AI chatbot" width="200"> | <img src="screenshots/haram-map.jpeg" alt="Interactive Haram map" width="200"> | <img src="screenshots/safety-alerts.jpeg" alt="Safety alerts" width="200"> |
 
 | SOS confirmation | Tawaf counter | Supplications library | Profile & settings |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/sos-confirmation.png" alt="SOS confirmation dialog" width="200"> | <img src="screenshots/tawaf-counter.png" alt="Tawaf counter" width="200"> | <img src="screenshots/supplications-library.png" alt="Supplications library" width="200"> | <img src="screenshots/profile-settings.png" alt="Profile and settings" width="200"> |
+| <img src="screenshots/sos-confirmation.jpeg" alt="SOS confirmation dialog" width="200"> | <img src="screenshots/tawaf-counter.jpeg" alt="Tawaf counter" width="200"> | <img src="screenshots/supplications-library.jpeg" alt="Supplications library" width="200"> | <img src="screenshots/profile-settings.jpeg" alt="Profile and settings" width="200"> |
 
 ### Administrator
 
 | Admin dashboard |
 |:---:|
-| <img src="screenshots/admin-dashboard.png" alt="Admin dashboard" width="200"> |
+| <img src="screenshots/admin-dashboard.jpeg" alt="Admin dashboard" width="200"> |
 
 
 
