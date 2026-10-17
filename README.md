@@ -11,8 +11,8 @@ A bilingual (Arabic-first, English) Flutter mobile app that brings ritual guidan
 ![Status](https://img.shields.io/badge/status-academic_prototype-lightgrey)
 
 <img src="home-screen.jpeg" alt="Yusr home screen" width="230"> &nbsp;
-<img src="screenshots/haram-map.jpeg" alt="Yusr interactive Haram map" width="230"> &nbsp;
-<img src="screenshots/tawaf-counter.jpeg" alt="Yusr Tawaf counter" width="230">
+<img src="haram-map.jpeg" alt="Yusr interactive Haram map" width="230"> &nbsp;
+<img src="tawaf-counter.jpeg" alt="Yusr Tawaf counter" width="230">
 
 </div>
 
@@ -66,17 +66,17 @@ Yusr tries to address this by combining, in one mobile app:
 
 | Home | AI chatbot | Interactive map | Safety alerts |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/home-screen.jpeg" alt="Home screen" width="200"> | <img src="screenshots/ai-chatbot.jpeg" alt="AI chatbot" width="200"> | <img src="screenshots/haram-map.jpeg" alt="Interactive Haram map" width="200"> | <img src="screenshots/safety-alerts.jpeg" alt="Safety alerts" width="200"> |
+| <img src="home-screen.jpeg" alt="Home screen" width="200"> | <img src="ai-chatbot.jpeg" alt="AI chatbot" width="200"> | <img src="haram-map.jpeg" alt="Interactive Haram map" width="200"> | <img src="safety-alerts.jpeg" alt="Safety alerts" width="200"> |
 
 | SOS confirmation | Tawaf counter | Supplications library | Profile & settings |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/sos-confirmation.jpeg" alt="SOS confirmation dialog" width="200"> | <img src="screenshots/tawaf-counter.jpeg" alt="Tawaf counter" width="200"> | <img src="screenshots/supplications-library.jpeg" alt="Supplications library" width="200"> | <img src="screenshots/profile-settings.jpeg" alt="Profile and settings" width="200"> |
+| <img src="sos-confirmation.jpeg" alt="SOS confirmation dialog" width="200"> | <img src="tawaf-counter.jpeg" alt="Tawaf counter" width="200"> | <img src="supplications-library.jpeg" alt="Supplications library" width="200"> | <img src="profile-settings.jpeg" alt="Profile and settings" width="200"> |
 
 ### Administrator
 
 | Admin dashboard |
 |:---:|
-| <img src="screenshots/admin-dashboard.jpeg" alt="Admin dashboard" width="200"> |
+| <img src="admin-dashboard.jpeg" alt="Admin dashboard" width="200"> |
 
 
 
