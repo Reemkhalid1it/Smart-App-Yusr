@@ -544,6 +544,4 @@ Thanks also to the 34 questionnaire participants and the testers mentioned in th
 
 ## License
 
-**No open-source license has been applied.** Without a license file, the default is "all rights reserved": others may view the code on GitHub but may not legally copy, modify or redistribute it. This is deliberate for now, because the report states the capstone work is the property of Taif University and the code was written by a team, so a license needs the university's and all authors' agreement.
-
-If permission is granted, add a `LICENSE` file (for example MIT or Apache-2.0 for a permissive choice) and update this section.
+**This project was developed as a university graduation project at Taif University. No open-source license has been applied. Please contact the relevant rights holders for permission before copying, modifying, or redistributing the project.
