@@ -533,4 +533,4 @@ Thanks also to the 34 questionnaire participants and the testers mentioned in th
 
 ## License
 
-** This project was developed as a university graduation project at Taif University. No open-source license has been applied. Please contact the relevant rights holders for permission before copying, modifying, or redistributing the project.
+**This project was developed as a university graduation project at Taif University. No open-source license has been applied. Please contact the relevant rights holders for permission before copying, modifying, or redistributing the project.**
