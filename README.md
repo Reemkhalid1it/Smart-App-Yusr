@@ -70,7 +70,7 @@ Yusr tries to address this by combining, in one mobile app:
 
 | SOS confirmation | Tawaf counter | Supplications library | Profile & settings |
 |:---:|:---:|:---:|:---:|
-| <img src="sos-confirmation.jpeg" alt="SOS confirmation dialog" width="200"> | <img src="tawaf-counter.jpeg" alt="Tawaf counter" width="200"> | <img src="supplications-library.jpeg" alt="Supplications library" width="200"> | <img src="profile-settings.jpeg" alt="Profile and settings" width="200"> |
+| <img src="sos-confirmationn.jpeg" alt="SOS confirmation dialog" width="200"> | <img src="tawaf-counter.jpeg" alt="Tawaf counter" width="200"> | <img src="supplications-library.jpeg" alt="Supplications library" width="200"> | <img src="profile-settings.jpeg" alt="Profile and settings" width="200"> |
 
 ### Administrator
 
