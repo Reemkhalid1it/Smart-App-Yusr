@@ -483,7 +483,6 @@ Yusr is a **seven-member academic team project**. The report describes an Agile 
 
 ### My contributions
 
-<!-- CONFIRM BEFORE PUBLISHING: the list below comes from the repository owner's CV. The report does not assign work to individual members, and the supplied source has no commit history, so it cannot independently verify authorship of specific files. -->
 
 Within the team, my responsibilities were:
 
@@ -526,17 +525,7 @@ Offline mode with cached maps and local storage of duas, augmented-reality navig
 
 Yusr was developed as a graduation project for the Bachelor of Information Technology at the **College of Computers and Information Technology, Taif University, Saudi Arabia** (2025–2026), under the supervision of **Dr. Mona Alnahari**.
 
-<!-- CONFIRM: team names are taken from the report's cover page. Confirm every member agrees to be listed publicly, or remove this list. Student IDs, university e-mail addresses and signatures from the report are intentionally omitted. -->
 
-**Team members**
-
-- Shahad Abdulrahman Almanjoumi
-- Muzoon Fahad Almutairi
-- Raghad Khaled Alotaibi
-- Reem Khalid Alqarni
-- Nawal Khaled Alghamdi
-- Laila Hassan Almofti
-- Atheer Awad Alghamdi
 
 Thanks also to the 34 questionnaire participants and the testers mentioned in the report. The Cairo typeface is used under its own open font license; Google Maps, Firebase and Gemini are products of their respective owners. The report states that the work is the property of Taif University under its intellectual-property rules — check university policy before choosing a public license.
 
@@ -544,4 +533,4 @@ Thanks also to the 34 questionnaire participants and the testers mentioned in th
 
 ## License
 
-**This project was developed as a university graduation project at Taif University. No open-source license has been applied. Please contact the relevant rights holders for permission before copying, modifying, or redistributing the project.
+** This project was developed as a university graduation project at Taif University. No open-source license has been applied. Please contact the relevant rights holders for permission before copying, modifying, or redistributing the project.
