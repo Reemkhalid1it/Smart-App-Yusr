@@ -78,11 +78,7 @@ Yusr tries to address this by combining, in one mobile app:
 |:---:|
 | <img src="screenshots/admin-dashboard.png" alt="Admin dashboard" width="200"> |
 
-### Arabic (RTL) interface
 
-| Home (Arabic) | Safety alerts (Arabic) | Supplications (Arabic) |
-|:---:|:---:|:---:|
-| <img src="screenshots/home-screen-ar.png" alt="Home screen in Arabic" width="200"> | <img src="screenshots/safety-alerts-ar.png" alt="Safety alerts in Arabic" width="200"> | <img src="screenshots/supplications-library-ar.png" alt="Supplications in Arabic" width="200"> |
 
 ---
 
