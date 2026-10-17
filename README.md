@@ -10,7 +10,7 @@ A bilingual (Arabic-first, English) Flutter mobile app that brings ritual guidan
 ![Gemini](https://img.shields.io/badge/Google_Gemini-AI_chat-4285F4?logo=googlegemini&logoColor=white)
 ![Status](https://img.shields.io/badge/status-academic_prototype-lightgrey)
 
-<img src="screenshots/home-screen.jpeg" alt="Yusr home screen" width="230"> &nbsp;
+<img src="home-screen.jpeg" alt="Yusr home screen" width="230"> &nbsp;
 <img src="screenshots/haram-map.jpeg" alt="Yusr interactive Haram map" width="230"> &nbsp;
 <img src="screenshots/tawaf-counter.jpeg" alt="Yusr Tawaf counter" width="230">
 
